@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+Personal Details
+======
+
 Junteng Liu is a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology. He graduated from Shanghai Jiao Tong University (SJTU) in June 2024. His research focuses on natural language processing and machine learning, and his research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM Truthfulness and Interpretability.
 
 Academic Background
