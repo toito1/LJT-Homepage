@@ -17,14 +17,15 @@ Academic Background
 
 * **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (2024-Present), supervised by Professor Junxian He
 * **B.Eng.**, Shanghai Jiao Tong University (2020-2024), graduated in June 2024
+* Previously advised by Professor Junxian He during undergraduate studies at SJTU
 * Received the **Zhiyuan Honor Scholarship** at Shanghai Jiao Tong University
 
 Research Experience
 ======
 
 * **Research Intern**, MINIMAX (February 2025 - Present)
-* **Research Intern**, Tencent WXG (June 2024 - September 2024)
-* **Research Intern**, Shanghai AI Lab (June 2023 - December 2023)
+* **Research Intern**, Tencent WXG (June 2024 - September 2024), advised by Zifei Shan
+* **Research Intern**, Shanghai AI Lab (June 2023 - December 2023), advised by Prof. Yu Cheng
 
 Publications
 ======
